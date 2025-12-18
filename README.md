@@ -51,10 +51,6 @@ ___
 
 ###
 
-<p align="left">- Criar um projeto simples e organizado para portfólio</p>
-
-###
-
 <h3 align="left">O foco não é design avançado, mas sim clareza de código e aprendizado.</h3>
 
 ###
